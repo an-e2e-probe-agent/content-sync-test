@@ -1,6 +1,6 @@
 ---
-title: Hello, sync
-status: draft
+title: Hello, sync (edited on GitHub)
+status: published
 tags: [test, sync]
 ---
 
