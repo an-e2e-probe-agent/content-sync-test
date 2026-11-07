@@ -1,7 +1,7 @@
 ---
 title: A second post
 status: published
-tags: [test]
+tags: [test, relink-nov-7]
 ---
 
 # A second post
